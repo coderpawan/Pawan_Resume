@@ -1,0 +1,57 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.details{
+    padding : 10px;
+}
+
+.details ul{
+    text-align: left;
+}
+.main{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.indetail{
+    text-align: left;
+}
+.skills {
+  text-align: right;
+  padding-top: 10px; 
+  padding-bottom: 10px; 
+  color: black; }
+
+#C {width: 90%; background-color: #2196F3; border-radius: 2mm;} 
+#Photoshop {width: 100%; background-color: #2196F3; border-radius: 2mm;}
+#HTML {width:60%; background-color: #2196F3; border-radius: 2mm;} 
+#CSS {width: 50%; background-color: #2196F3; border-radius: 2mm;}
+#Civilsoftware{width: 90%; background-color: #2196F3; border-radius: 2mm;}
+
+.Intro img{
+    border-radius: 9px;
+}
+
+.resume{
+    display:grid;
+    grid-template-columns: 30% 1fr;
+    grid-gap: 2rem;
+}
+
+.divScroll {
+    background-color: rgb(24, 22, 22);
+}
+#Social{
+    width: 33%;
+    float: left;
+}
+#Interest{
+    width: 37%;
+    float: left;
+}
+#Hob{
+    width: 30%;
+    float: left;
+}
+
+
