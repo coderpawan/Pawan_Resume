@@ -22,11 +22,15 @@ html{
   padding-bottom: 10px; 
   color: black; }
 
-#C {width: 90%; background-color: #2196F3; border-radius: 2mm;} 
-#Photoshop {width: 100%; background-color: #2196F3; border-radius: 2mm;}
-#HTML {width:60%; background-color: #2196F3; border-radius: 2mm;} 
-#CSS {width: 50%; background-color: #2196F3; border-radius: 2mm;}
-#Civilsoftware{width: 90%; background-color: #2196F3; border-radius: 2mm;}
+  #HTML {width:100%; font-size: 15px; background-color: #2196F3; border-radius: 2mm;} 
+  #CSS {width: 95%; font-size: 15px; background-color: #2196F3; border-radius: 2mm;}
+  #Java {width: 70%; font-size: 15px; background-color: #2196F3; border-radius: 2mm;}
+  #React {width: 90%; font-size: 15px; background-color: #2196F3; border-radius: 2mm;}
+  #Next {width: 90%; font-size: 15px; background-color: #2196F3; border-radius: 2mm;}
+  #Django {width: 50%; font-size: 15px; background-color: #2196F3; border-radius: 2mm;}
+  #C {width: 60%; font-size: 15px; background-color: #2196F3; border-radius: 2mm;} 
+#Photoshop {width: 100%; font-size: 15px; background-color: #2196F3; border-radius: 2mm;}
+#Civilsoftware{width: 90%; font-size: 15px; background-color: #2196F3; border-radius: 2mm;}
 
 .Intro img{
     border-radius: 9px;
@@ -52,6 +56,11 @@ html{
 #Hob{
     width: 30%;
     float: left;
+}
+a:-webkit-any-link {
+    color: blue;
+    cursor: pointer;
+    text-decoration: auto;
 }
 
 
